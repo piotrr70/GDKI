@@ -51,6 +51,12 @@ To address those different questions, the program wil use a multidisciplinary ap
   # Stay tuned! 
   
   and come back regularly on the [homepage of the project](http://https://piotrr70.github.io/GDKI) to discover new developements all along the year. tu support the work done in the program, a [Zotero library](https://www.zotero.org/piotrr/collections/3FI63UK7) is available.
+  
+  # Next Session : October 26 : Sci-Hub, a pirate infrastructure?
+  <param ve-video
+         title="Sci-Hub Presentation
+       id="Wwghl-J4la4">
+       
 
 ## Credit
 
