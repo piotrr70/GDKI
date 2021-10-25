@@ -3,14 +3,15 @@
 <param ve-config 
        title="GDKI - Introduction" 
        banner="https://upload.wikimedia.org/wikipedia/commons/a/ad/Cologne_Main_Station_May_2015.JPG" 
-       layout="horizontal">
+       layout="veritcal"
+       author="Pierre Mounier">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q121359"> <!-- Infrastructure -->
-<param ve-entity eid="Q9081"> <!-- Knowledge -->
-<param ve-entity eid="Q179322"> <!-- Digital -->
+<param ve-entity eid="Q121359"> <!-- infrastructure -->
+<param ve-entity eid="Q9081"> <!-- knowledge -->
+<param ve-entity eid="Q179322"> <!-- digital -->
 
 # An annual Workshop proposed by Pierre Mounier
 
