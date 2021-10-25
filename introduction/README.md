@@ -41,7 +41,7 @@ But if digital infrastructures govern the way knowledge is produced, they are th
 <param ve-image
        label="Negociation"
        description="Santorin (GR), Akrotiri, Kastell -La Ponta- -- 2017"
-       license="Dietmar Rabich / Wikimedia Commons / “Santorin (GR), Akrotiri, Kastell -La Ponta- -- 2017 -- 2967” / CC BY-SA 4.0"
+       license="Dietmar Rabich / Wikimedia Commons / Santorin (GR), Akrotiri, Kastell -La Ponta- -- 2017 -- 2967 / CC BY-SA 4.0"
        url="https://upload.wikimedia.org/wikipedia/commons/e/ea/Santorin_%28GR%29%2C_Akrotiri%2C_Kastell_-La_Ponta-_--_2017_--_2967.jpg"
 
 # *How is the digital knowledge infrastructure governed?*
