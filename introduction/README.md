@@ -15,15 +15,14 @@
 
 # An annual Workshop proposed by Pierre Mounier
 
-Pierre Mounier is research engineer at the École des Hautes Études en Sciences Sociales (EHESS, Paris) and strongly involved in the development of open scholarly communication platforms as deputy director of OpenEdition, coordinator of OPERAS, and co-director of DOAB.
-
-He is the author of a number of books on digital humanities and open science. His last work entitled Les humanités numériques. Une histoire critique (2018) is available in open access. For further information, see [his website](https://pierremounier.net).
 <param ve-image 
        label="Pierre Mounier" 
        description="Pierre Mounier " 
        license="Public Domain" 
        url="https://www.operas-eu.org/wp-content/uploads/2020/01/Pierre_Mounier.jpg">
+Pierre Mounier is research engineer at the École des Hautes Études en Sciences Sociales (EHESS, Paris) and strongly involved in the development of open scholarly communication platforms as deputy director of OpenEdition, coordinator of OPERAS, and co-director of DOAB.
 
+He is the author of a number of books on digital humanities and open science. His last work entitled Les humanités numériques. Une histoire critique (2018) is available in open access. For further information, see [his website](https://pierremounier.net).
 
 
 ## Map
