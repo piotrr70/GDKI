@@ -40,20 +40,18 @@ But at the crossroads of these dimensions, the role of the underpinning digital 
 But if digital infrastructures govern the way knowledge is produced, they are themselves governed in a certain way, and that question is even more rarely considered. Digital infrastructures can be viewed as common places where different types of stakeholders meet; their governance is often crafted under the influence of competing parties (e.g users, engineers, developers, funders and policy-makers) who project their governance models and values on the infrastructures and have to negotiate those models with other stakeholders. Hence our second question:
 
 # How is the digital knowledge infrastructure governed?
-<param ve-image
+
+To address those different questions, the program wil use a multidisciplinary approach, building upon the knowledge made available thanks to research in:
+       <param ve-image
        label="Infrastructure"
        description="Map of Amsterdam around 1699-1706"
        license="public Domain"
        url="https://upload.wikimedia.org/wikipedia/commons/3/39/Map_of_Amsterdam_around_1699-1706.png"
 
-To address those different questions, the program wil use a multidisciplinary approach, building upon the knowledge made available thanks to research in:
 
        * Anthropology of knowledge, such as the Platform [Savoirs](http://savoirs.app)
-       
        * Library studies and Information Science, such as [CIBER](http://ciber-research.uk/harbingers.html)
-       
        * Political science, such as the recent [*Big Science and Research Infrastructures in Europe*](https://www.e-elgar.com/shop/gbp/big-science-and-research-infrastructures-in-europe-9781839100000.html)
-       
        * History of science and technology, in the context of digital humanities, such as the research developed at [EPFL LHST](https://www.epfl.ch/labs/lhst/)
        
   # Stay tuned! 
