@@ -18,7 +18,7 @@
 Pierre Mounier is research engineer at the École des Hautes Études en Sciences Sociales (EHESS, Paris) and strongly involved in the development of open scholarly communication platforms as deputy director of [OpenEdition](https://openedition.org), coordinator of [OPERAS](http://operas-eu.org), and co-director of [DOAB](http://doabooks.org).
 <param ve-image 
        label="Pierre Mounier" 
-       description="Pierre Mounier " 
+       description="Pierre Mounier" 
        license="Public Domain" 
        url="https://www.operas-eu.org/wp-content/uploads/2020/01/Pierre_Mounier.jpg">
 
@@ -30,7 +30,7 @@ During the last 20 years has a profound impact on the way knowledge is structure
 <param ve-image
        label="Digitisation"
        description="Workshop for librarians 2019-06-04 JVK ČBu"
-       license="Czeva, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+       license="Czeva, CC BY-SA 4.0, via Wikimedia Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/b/b8/Workshop_for_librarians_2019-06-04_JVK_%C4%8CBu_03.jpg">
 
 But at the crossroads of these dimensions, the role of the underpinning digital infrastructure to enable or on the contrary to disable, to make visible or invisible, to structure and format certain types of knowledge is still an emerging field of study. Hence our first question:
@@ -49,10 +49,10 @@ To address those different questions, the program wil use a multidisciplinary ap
        url="https://upload.wikimedia.org/wikipedia/commons/3/39/Map_of_Amsterdam_around_1699-1706.png">
 
 
-       * Anthropology of knowledge, such as the Platform [Savoirs](http://savoirs.app)
-       * Library studies and Information Science, such as [CIBER](http://ciber-research.uk/harbingers.html)
-       * Political science, such as the recent [*Big Science and Research Infrastructures in Europe*](https://www.e-elgar.com/shop/gbp/big-science-and-research-infrastructures-in-europe-9781839100000.html)
-       * History of science and technology, in the context of digital humanities, such as the research developed at [EPFL LHST](https://www.epfl.ch/labs/lhst/)
+       - Anthropology of knowledge, such as the Platform [Savoirs](http://savoirs.app)
+       - Library studies and Information Science, such as [CIBER](http://ciber-research.uk/harbingers.html)
+       - Political science, such as the recent [Big Science and Research Infrastructures in Europe](https://www.e-elgar.com/shop/gbp/big-science-and-research-infrastructures-in-europe-9781839100000.html)
+       - History of science and technology, in the context of digital humanities, such as the research developed at [EPFL LHST](https://www.epfl.ch/labs/lhst/)
        
   # Stay tuned! 
   
