@@ -34,6 +34,16 @@ During the last 20 years has a profound impact on the way knowledge is structure
        url="https://upload.wikimedia.org/wikipedia/commons/b/b8/Workshop_for_librarians_2019-06-04_JVK_%C4%8CBu_03.jpg"
 
 But at the crossroads of these dimensions, the role of the underpinning digital infrastructure to enable or on the contrary to disable, to make visible or invisible, to structure and format certain types of knowledge is still an emerging field of study. Hence our first question:
+       
+# How does the digital infrastructure govern knowledge production today?
+       
+But if digital infrastructures govern the way knowledge is produced, they are themselves governed in a certain way, and that question is even more rarely considered. Digital infrastructures can be viewed as common places where different types of stakeholders meet; their governance is often crafted under the influence of competing parties (e.g users, engineers, developers, funders and policy-makers) who project their governance models and values on the infrastructures and have to negotiate those models with other stakeholders. Hence our second question:
+<param ve-image
+       label="Negociation"
+       description="Santorin (GR), Akrotiri, Kastell -La Ponta- -- 2017"
+       license="Dietmar Rabich / Wikimedia Commons / “Santorin (GR), Akrotiri, Kastell -La Ponta- -- 2017 -- 2967” / CC BY-SA 4.0"
+       url="https://upload.wikimedia.org/wikipedia/commons/e/ea/Santorin_%28GR%29%2C_Akrotiri%2C_Kastell_-La_Ponta-_--_2017_--_2967.jpg"
+
 
 
 ## Map
