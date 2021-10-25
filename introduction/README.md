@@ -35,7 +35,7 @@ During the last 20 years has a profound impact on the way knowledge is structure
 
 But at the crossroads of these dimensions, the role of the underpinning digital infrastructure to enable or on the contrary to disable, to make visible or invisible, to structure and format certain types of knowledge is still an emerging field of study. Hence our first question:
        
-# How does the digital infrastructure govern knowledge production today?
+# *How does the digital infrastructure govern knowledge production today?*
        
 But if digital infrastructures govern the way knowledge is produced, they are themselves governed in a certain way, and that question is even more rarely considered. Digital infrastructures can be viewed as common places where different types of stakeholders meet; their governance is often crafted under the influence of competing parties (e.g users, engineers, developers, funders and policy-makers) who project their governance models and values on the infrastructures and have to negotiate those models with other stakeholders. Hence our second question:
 <param ve-image
@@ -44,23 +44,20 @@ But if digital infrastructures govern the way knowledge is produced, they are th
        license="Dietmar Rabich / Wikimedia Commons / “Santorin (GR), Akrotiri, Kastell -La Ponta- -- 2017 -- 2967” / CC BY-SA 4.0"
        url="https://upload.wikimedia.org/wikipedia/commons/e/ea/Santorin_%28GR%29%2C_Akrotiri%2C_Kastell_-La_Ponta-_--_2017_--_2967.jpg"
 
+# *How is the digital knowledge infrastructure governed?*
+<param ve-image
+       url="1807861462_2d39fbeb55_c.jpg"
+       label="Digital governance"
+       description="Darth Vader, Stormtroopers come to ICANN meeting
+       license="Joi Ito, -- 2007 -- / CC BY 2.0
 
-
-## Map
-
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
-
-## Multiple viewers
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
-
-# References
-
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+To address those different questions, the program wil use a multidisciplinary approach, building upon the knowledge made available thanks to research in
+       * Anthropology of knowledge, such as the Platform [Savoirs](http://savoirs.app)
+       * Library studies and Information Science, such as [CIBER](http://ciber-research.uk/harbingers.html)
+       * Political science, such as the recent [*Big Science and Research Infrastructures in Europe*](https://www.e-elgar.com/shop/gbp/big-science-and-research-infrastructures-in-europe-9781839100000.html)
+       * History of science and technology, in the context of digital humanities, such as the research developed at [EPFL LHST](https://www.epfl.ch/labs/lhst/)
+       
+  # Stay tuned! and come back regularly on the [homepage of the project](http://https://piotrr70.github.io/GDKI) to discover new developements all along the year.
 
 ## Credit
 
