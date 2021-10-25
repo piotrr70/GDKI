@@ -31,7 +31,7 @@ During the last 20 years has a profound impact on the way knowledge is structure
        label="Digitisation"
        description="Workshop for librarians 2019-06-04 JVK ČBu"
        license="Czeva, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
-       url="https://upload.wikimedia.org/wikipedia/commons/b/b8/Workshop_for_librarians_2019-06-04_JVK_%C4%8CBu_03.jpg"
+       url="https://upload.wikimedia.org/wikipedia/commons/b/b8/Workshop_for_librarians_2019-06-04_JVK_%C4%8CBu_03.jpg">
 
 But at the crossroads of these dimensions, the role of the underpinning digital infrastructure to enable or on the contrary to disable, to make visible or invisible, to structure and format certain types of knowledge is still an emerging field of study. Hence our first question:
        
@@ -46,7 +46,7 @@ To address those different questions, the program wil use a multidisciplinary ap
        label="Infrastructure"
        description="Map of Amsterdam around 1699-1706"
        license="public Domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/3/39/Map_of_Amsterdam_around_1699-1706.png"
+       url="https://upload.wikimedia.org/wikipedia/commons/3/39/Map_of_Amsterdam_around_1699-1706.png">
 
 
        * Anthropology of knowledge, such as the Platform [Savoirs](http://savoirs.app)
