@@ -45,11 +45,6 @@ But if digital infrastructures govern the way knowledge is produced, they are th
        url="https://upload.wikimedia.org/wikipedia/commons/e/ea/Santorin_%28GR%29%2C_Akrotiri%2C_Kastell_-La_Ponta-_--_2017_--_2967.jpg"
 
 # *How is the digital knowledge infrastructure governed?*
-<param ve-image
-       url="1807861462_2d39fbeb55_c.jpg"
-       label="Digital governance"
-       description="Darth Vader, Stormtroopers come to ICANN meeting
-       license="Joi Ito, -- 2007 -- / CC BY 2.0"
 
 To address those different questions, the program wil use a multidisciplinary approach, building upon the knowledge made available thanks to research in
        * Anthropology of knowledge, such as the Platform [Savoirs](http://savoirs.app)
