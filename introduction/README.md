@@ -54,7 +54,7 @@ To address those different questions, the program wil use a multidisciplinary ap
   
   # Next Session: Sci-Hub, a pirate infrastructure?
   Our next session wil be about Sci-Hub as a pirate infrastructure.
-  <param ve-video title="Sci-Hub Presentation" id="Wwghl-J4la4">
+  <param ve-video id="Wwghl-J4la4" title="Sci-Hub Presentation">
        
 
 ## Credit
