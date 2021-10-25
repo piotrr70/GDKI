@@ -53,8 +53,15 @@ To address those different questions, the program wil use a multidisciplinary ap
   and come back regularly on the [homepage of the project](http://https://piotrr70.github.io/GDKI) to discover new developements all along the year. tu support the work done in the program, a [Zotero library](https://www.zotero.org/piotrr/collections/3FI63UK7) is available.
   
   # Next Session: Sci-Hub, a pirate infrastructure?
-  Our next session wil be about Sci-Hub as a pirate infrastructure.
-  <param ve-video id="Wwghl-J4la4" title="Sci-Hub Presentation">
+  
+ Digital infrastructures are required to design and develop their services to be “user-centric”: users’ needs should be the starting point of the service provision. But in some cases, users don’t wait for institutions and companies to deliver the services they need; they take the initiative to address immediately their own needs, without being embarrassed or slowed down by financial, organisational or legal obstacles.
+
+Sci-hub, a peer-to-peer platform dedicated to scientific publications sharing, was developed in 2011 by the researcher Alexandra Elbakyan. Even though the platform clearly infringes copyright law and is regularly sued by commercial publishers, it receives popular support from the researchers worldwide and is massively used. In a provocative paper published in [Palladium Magazine](https://palladiummag.com/2021/09/24/a-world-without-sci-hub/). Jason Parry argues that “Like the clandestine networks that helped to promote and popularize prohibited ideas and research in earlier eras, Sci-Hub functions as an infrastructure for circumventing artificially imposed limits on human thought”. Recent research showed indeed that Sci-Hub and its sister platform dedicated to academic books, Lib-Gen, are favored in particular by ECRs: [Nicholas, David, Chérifa Boukacem-Zeghmouri, Jie Xu, Eti Herman, David Clark, Abdullah Abrizah, Blanca Rodríguez-Bravo, and Marzena Świgoń, "Sci-Hub: The New and Ultimate Disruptor? View from the Front" Learned Publishing 32, no 2 (2019): 147 53](https://onlinelibrary.wiley.com/doi/full/10.1002/leap.1206).Watch on video how three of the researchers present their research. <param ve-video id="Wwghl-J4la4" title="Sci-Hub Presentation">
+
+What does the success of Sci-Hub mean regarding the current status of scholarly communication?
+How does it exemplify the failure of the current scholarly communication ecosystem to address new demands from the youngest generation of scholars to be able to access and share knowledge without barriers?
+Can we consider Sci-hub as a revealing agent or as a disrupting player in the ecosystem?
+How can it be compared with previous similar initiatives in other domains, such as Napster and Pirate Bay?
        
 
 ## Credit
