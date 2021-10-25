@@ -17,7 +17,7 @@ nav:
 - label: Contact Pierre Mounier
   icon: fas fa-envelope
   action: contact-us
-- label: View page source
+- label: View this page source
   icon: fas fa-file-code
   action: view-markdown
 - label: My new essay
