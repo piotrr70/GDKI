@@ -24,6 +24,17 @@ Pierre Mounier is research engineer at the École des Hautes Études en Sciences
 
 He is the author of a number of books on digital humanities and open science. His last work entitled Les humanités numériques. Une histoire critique (2018) is available in open access. For further information, see [his website](https://pierremounier.net).
 
+## The complete Digitisation of Information
+
+During the last 20 years has a profound impact on the way knowledge is structured, produced, shared, received, circulated in contemporary societies. This major change in the order of knowledge has been studied from different angles: tools and technology, knowledge management, usages in different contexts, the knowledge economy.
+<param ve-image
+       label="Digitisation"
+       description="Workshop for librarians 2019-06-04 JVK ČBu"
+       license="Czeva, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+       url="https://upload.wikimedia.org/wikipedia/commons/b/b8/Workshop_for_librarians_2019-06-04_JVK_%C4%8CBu_03.jpg"
+
+But at the crossroads of these dimensions, the role of the underpinning digital infrastructure to enable or on the contrary to disable, to make visible or invisible, to structure and format certain types of knowledge is still an emerging field of study. Hence our first question:
+
 
 ## Map
 
