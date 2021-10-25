@@ -3,7 +3,7 @@
 <param ve-config 
        title="GDKI - Introduction" 
        banner="https://upload.wikimedia.org/wikipedia/commons/a/ad/Cologne_Main_Station_May_2015.JPG" 
-       layout="veritcal"
+       layout="vertical"
        author="Pierre Mounier">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
