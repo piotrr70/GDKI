@@ -17,11 +17,7 @@
 
 Pierre Mounier is research engineer at the École des Hautes Études en Sciences Sociales (EHESS, Paris) and strongly involved in the development of open scholarly communication platforms as deputy director of OpenEdition, coordinator of OPERAS, and co-director of DOAB.
 
-He is the author of a number of books on digital humanities and open science. His last work entitled Les humanités numériques. Une histoire critique (2018) is available in open access. For further information, see https://pierremounier.net.
-
-Sample visual essay
-
-This is a sample visual essay demonstrating a few key features of a visual essay.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org).
+He is the author of a number of books on digital humanities and open science. His last work entitled Les humanités numériques. Une histoire critique (2018) is available in open access. For further information, see [his website](https://pierremounier.net).
 <param ve-image 
        label="Pierre Mounier" 
        description="Pierre Mounier " 
