@@ -3,7 +3,7 @@
 <param ve-config 
        title="GDKI - Introduction" 
        banner="https://upload.wikimedia.org/wikipedia/commons/a/ad/Cologne_Main_Station_May_2015.JPG" 
-       layout="vertical">
+       layout="horizontal">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
@@ -49,7 +49,7 @@ To address those different questions, the program wil use a multidisciplinary ap
        
   # Stay tuned! 
   
-  and come back regularly on the [homepage of the project](http://https://piotrr70.github.io/GDKI) to discover new developements all along the year.
+  and come back regularly on the [homepage of the project](http://https://piotrr70.github.io/GDKI) to discover new developements all along the year. tu support the work done in the program, a [Zotero library](https://www.zotero.org/piotrr/collections/3FI63UK7) is available.
 
 ## Credit
 
