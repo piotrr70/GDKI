@@ -13,11 +13,23 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Sample visual essay
+# 
+
+
+#An annual Workshop proposed by Pierre Mounier
+
+Pierre Mounier is research engineer at the École des Hautes Études en Sciences Sociales (EHESS, Paris) and strongly involved in the development of open scholarly communication platforms as deputy director of OpenEdition, coordinator of OPERAS, and co-director of DOAB.
+
+He is the author of a number of books on digital humanities and open science. His last work entitled Les humanités numériques. Une histoire critique (2018) is available in open access. For further information, see https://pierremounier.net.
+
+Sample visual essay
 
 This is a sample visual essay demonstrating a few key features of a visual essay.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org).
 <param ve-image 
-       manifest="https://upload.wikimedia.org/wikipedia/commons/a/ad/Cologne_Main_Station_May_2015.JPG">
+       label="Pierre Mounier" 
+       description="Pierre Mounier " 
+       license="Public Domain" 
+       url="https://www.operas-eu.org/wp-content/uploads/2020/01/Pierre_Mounier.jpg">
 
 # Basic usage
 
