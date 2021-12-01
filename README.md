@@ -8,6 +8,7 @@ The support website to Pierre Mounier's invited scholar program at LHST/DHI/EPFL
 
 1. *September 28* Introduction [Recording](https://tube.switch.ch/videos/FRrQfsEYpr) [Visual Essay](/introduction/)
 2. *October 26* Sci-Hub, a pirate infrastructure? [Presentation](https://memento.epfl.ch/event/governing-digital-knowledge-infrastructures-sci-hu/) [slidedeck](https://github.com/piotrr70/GDKI/blob/1c3b7d54eef8965fa911cc18b84c32099f27aae3/scihub/SCI-HUB%20A%20PIRATE%20INFRASTRUCTURE_.pdf)
+3. *November30* Big Science and Research Infrastructures in Europe: history and current trends. [Presentation](https://memento.epfl.ch/event/big-science-and-research-infrastructures-in-europe/) [Slidedeck](https://drive.google.com/file/d/1qpnS1eoBU3MVGzLJzlKqWJ6R7l2zJDUP/view?usp=sharing)
 
 ***
 
